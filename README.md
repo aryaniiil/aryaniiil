@@ -4,7 +4,7 @@
 Building scalable APIs, scraping engines, and exploring the mobile ecosystem.
 
 ###  What I'm up to
-* **Currently building:** [Kuki-Ai-Agent]() — An M3U8 stream extractor for embedded video sites.
+* **Currently building:** [Kuki-Ai-Agent]() — A Ai agent and orchestrator (aint gonna use mcp and traditional approach just trying something new)
 * **Currently learning:** React Native, Flutter, and three.js.
 * **Open to collaborate on:** Python RESTful APIs, automation, and backend infrastructure.
 * **Ask me about:** Python architecture, scraping bypasses.
