@@ -21,4 +21,4 @@ Building scalable APIs, scraping engines, and exploring the mobile ecosystem.
 ---
 
 ###  GitHub Stats
-![Aryanil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryaniiil&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8)
+![Aryanil's GitHub Stats](https://github-readme-stats.shion.dev/api?username=aryaniiil&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8)
